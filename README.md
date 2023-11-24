@@ -1,4 +1,4 @@
-# Startup - Next.js Startup Website
+# Next.js Startup Website
 
 ## 1.Project Screenshots
 
